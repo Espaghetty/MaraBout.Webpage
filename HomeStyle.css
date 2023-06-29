@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+*
+{
+    margin: auto;
+    
+}
+
+h1
+{
+    color:#b4291e;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 5rem;
+}
+
+h2
+{
+    color:#b4291e;
+    text-align: center;
+    
+}
+#Sale /*Calls id*/ 
+{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 25%;
+}
+
+.model
+{
+    display: block;
+    Max-width: 100%;
+    padding: 0.5%;
+}
+
+ul
+{   
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Caprasimo', cursive;
+    list-style-type: none;
+}
+.LINKS
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+body
+{
+    background-color: white;
+    font-family: 'Hind', sans-serif;
+    
+}
+
+
+
+
+footer{text-align: end;}
